@@ -1,0 +1,6 @@
+[openshift_providers]
+openshift01 type='openshift-origin' hostname='' port='' token='' metrics='True' hawkular_hostname='' hawkular_port=''
+openshift02 type='openshift-enterprise' hostname='' port='' token='' metrics='True' hawkular_hostname='' hawkular_port=''
+
+[openshift_providers:vars]
+zone='default'

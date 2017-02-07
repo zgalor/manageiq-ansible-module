@@ -1,0 +1,7 @@
+[operators]
+dkorn full_name='Daniel Korn' password='123'
+cben full_name='Beni Pesch' password='456'
+
+[operators:vars]
+group='EvmGroup-user'
+

@@ -1,0 +1,5 @@
+[amazon_providers]
+aws01 region='us-west-1' access_key_id='******' secret_access_key='******'
+
+[amazon_providers:vars]
+type='amazon'
